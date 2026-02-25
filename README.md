@@ -7,5 +7,5 @@ The goal is to understand sales patterns, inventory movement, and demand trends 
 
 ## 📊 Power BI Dashboards
 - Sales Overview Dashboard  
-- Stock analysis dashboard
+- Stock analysis Dashboard
 - Demand Forecasting Dashboard  
