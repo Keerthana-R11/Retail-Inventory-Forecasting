@@ -1,5 +1,5 @@
 ## Retail-Inventory-Forecasting
-This is my data analysis project
+This is My Data Analysis Project
 
 ## 📌 Project Overview
 This project focuses on analyzing retail inventory and sales data using **Power BI**.  
